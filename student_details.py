@@ -1,3 +1,11 @@
+'''
+Author :Vismaya Theresa Benny
+Date   :01-10-2024
+Python program to get the student details
+version:1.0
+'''
+
+
 print("Hello Python")
 name=input("Enter the student name:")
 roll_no=int(input("Enter the roll no:"))
