@@ -1,7 +1,7 @@
 '''
 Author:Vismaya Theresa Benny
 Date:22/10/2024
-python program to find largest of three number"s
+python program to find largest of three number's
 '''
 No1=int(input("Enter the first no:"))
 No2=int(input("Enter the second no:"))
